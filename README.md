@@ -1,0 +1,1 @@
+This C++ project simulates a city network with roads and provides functionalities for answering various questions about the network. The program takes user input to create a map of the city, establish connections between cities, and perform queries based on the input.
